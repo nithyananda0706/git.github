@@ -1,6 +1,2 @@
 First file, edited
-<<<<<<< HEAD
-conflict,
-=======
 conflict
->>>>>>> master
